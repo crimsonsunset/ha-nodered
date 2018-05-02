@@ -1,1 +1,1 @@
-[]
+[{"id":"795c37b5.7f0d88","type":"tab","label":"Flow 1","disabled":false,"info":""},{"id":"8c166758.c4f208","type":"websocket in","z":"795c37b5.7f0d88","name":"","x":120,"y":260,"wires":[["184fe1b5.10abfe"]]},{"id":"184fe1b5.10abfe","type":"debug","z":"795c37b5.7f0d88","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":380,"y":280,"wires":[]}]
